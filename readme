@@ -1,0 +1,40 @@
+this is a python calulator that uses ohms law too calculate voltage, current , ressitance, and electrical power.
+it allows users to select a calculation from a menu and enter required values.
+the calculator also includes input validtion and a warning for high power calculations.
+how to run the python
+1. make sure python is installed on your computer.
+2. open the project folder in vs code.
+3. open the terminal in vs code.
+run the following commandthis is a python calulator that uses ohms law too calculate voltage, current , ressitance, and electrical power.
+it allows users to select a calculation from a menu and enter required values.
+the calculator also includes input validtion and a warning for high power calculations.
+how to run the python
+1. make sure python is installed on your computer.
+2. open the project folder in vs code.
+3. open the terminal in vs code.
+run the following command
+python ohms_law.py
+Sample Output
+Welcome to the Ohm’s Law and Power Calculator
+
+1. Calculate voltage
+2. Calculate current
+3. Calculate resistance
+4. Calculate power
+5. Exit
+
+Enter your choice: 4
+Enter voltage: 20
+Enter current: 10
+Warning: High power detected!
+Calculated power: 200.0 watts
+Features
+
+• Calculates voltage using Ohm’s Law.
+• Calculates current.
+• Calculates resistance.
+• Calculates electrical power.
+• Handles invalid numerical inputs.
+• Displays a warning when calculated power exceeds 100 watts.
+• Uses a menu-driven interface.
+python ohms_law.py
